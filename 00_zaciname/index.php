@@ -6,8 +6,10 @@
     <title>00 začíname</title>
 </head>
 <body>
+    <p>
+        Nina :3
+    </p>
     <?php
-
 
 
 
