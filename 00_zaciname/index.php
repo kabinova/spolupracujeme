@@ -10,7 +10,7 @@
 <h1>git config --global user.name "tvojemeno"</h1>
 <h1>git config --global user.email "tvoj@email.hu"</h1>
     <?php
-    mnau
+    mnauu
 
 
 
