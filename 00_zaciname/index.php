@@ -8,7 +8,7 @@
 <body>
 <<<<<<< HEAD
     <p>
-        Nina :3x
+        Nina
     </p>
 =======
 
